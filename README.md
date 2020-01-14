@@ -28,6 +28,7 @@ $ pip install -r requirements.txt
 Run
 ---
 **Register**
+
 If you haven'd done so already, sign up for an API Key: https://api.data.gov/signup/
 
 **Edit `settings.py`**
@@ -44,6 +45,7 @@ If you haven'd done so already, sign up for an API Key: https://api.data.gov/sig
 
 
 **Scrape**
+
 After editing `settings.py`, run `run.py`
 ```bash
 $ python run.py
